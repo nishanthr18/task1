@@ -1,0 +1,36 @@
+.signup_data {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4rem;
+  color: #666;
+}
+.labels {
+  padding-top: 12rem;
+  flex-direction: column;
+  display: flex;
+  font-size: large;
+}
+
+.inputs {
+  display: flex;
+  padding-top: 10rem;
+  flex-direction: column;
+}
+
+.lab{
+    padding-top: 2rem;
+}
+
+.inp{
+    padding-top: 1rem;
+}
+
+.i{
+  width: 400px;
+  height: 40px;
+}
+
+.que{
+    padding-left: 4px;
+}

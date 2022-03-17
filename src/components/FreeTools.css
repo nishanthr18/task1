@@ -1,0 +1,35 @@
+.ft_dropdown{
+    display: none;
+}
+
+.freetools:hover .ft_dropdown{
+    display: block;
+}
+
+.ft_dropdown{
+position: absolute;
+color:white;
+top:2rem;
+background: #1a2c46;
+
+}
+
+.ft_ul{
+    padding-left: 0;
+}
+
+.ft_li{
+    padding: 1rem 1rem;
+    transition: 0.2s;
+    /* -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease; */
+}
+
+.ft_li:hover{
+        background: #F58120;        
+}
+
+.fp:hover{
+    -webkit-transition: all 1s ease-out;
+    transition: all 1s ease; 
+}

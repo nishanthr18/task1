@@ -1,0 +1,53 @@
+.sol_dropdown{
+    display: none;
+}
+
+.solution:hover .sol_dropdown{
+display: block;
+}
+
+.li{
+    padding: 1rem 1rem;
+    transition: 0.2s;
+    /* -webkit-transition: all 0.3 ease;
+  transition: all 0.3s ease; */
+}
+
+.sol_dropdown{
+position: absolute;
+color:white;
+top:2rem;
+background: #1a2c46;
+}
+
+.li:hover{
+background: #F58120;
+color: white;
+}
+
+.li_sol{
+    color: white;
+    text-decoration: none;
+}
+
+.li_lgm{
+    color: white;
+    text-decoration: none;  
+}
+
+.li_lgm:hover{
+    text-decoration: none;
+}
+
+.li_fb{
+    color: white;
+    text-decoration: none;
+}
+.sol_ul{
+    padding-left: 0;
+}
+
+.sp:hover{
+    -webkit-transition: all 1s ease-out;
+    transition: all 1s ease; 
+}

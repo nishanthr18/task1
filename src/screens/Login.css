@@ -1,0 +1,145 @@
+.loginpage{
+    text-align: center;
+}
+
+.login_header{
+padding-top: 7rem;
+text-align: center;
+color: #1e334e;
+}
+.ld{
+font-weight: 400;
+font-size: 1cm
+}
+
+.login_fields{
+    margin-top: 5rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    box-sizing: border-box;
+    box-shadow: 0 0 10px #888;
+    width: 500px;
+    height: 350px;
+    margin-left: 32rem;
+    text-align: center;
+}
+
+.f{
+    padding-bottom: 1rem;
+}
+
+.btn-login{
+    /* box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); */
+    width: 75%;
+    height: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #1e334e78;
+
+}
+
+.btn-log-btn{
+    color: white;
+    font-size: larger;
+    background-color: #F58120;
+    border-style: none;
+    font-weight: 100;
+
+}
+
+.ip1{
+    height: 50px;
+    /* background: transparent; */
+}
+.login_p{
+    font-size: large;
+}
+.fp{
+    font-size:x-large;
+    color:#1e334ee0;
+    padding-top: 1rem;
+    padding-right:unset
+}
+
+.ip1{
+    background-color: white;
+}
+
+.ip2{
+    background-color: white;
+}
+
+::-webkit-input-placeholder {
+    color:#1e334ee0;
+    font-size: 20px;
+    padding-left:15px; 
+   
+  }
+  ::-moz-placeholder {
+    color:#1e334ee0;
+    font-size: 20px;
+    padding-left:15px;
+    
+  }
+  :-ms-input-placeholder {
+    color:#1e334ee0;
+    font-size: 20px;
+    padding-left:15px;
+    
+  }
+  ::placeholder {
+    color:#1e334ee0;
+    font-size: 20px;
+    padding-left:15px;
+  }
+
+.cb{
+
+    margin-right: 1rem;
+}
+
+::-webkit-button-placeholder {
+    color:#00000089;
+    font-size: 20px;
+    padding-left:15px; 
+    font-weight: 600;
+   
+  }
+  ::-moz-placeholder {
+    color:#00000089;
+    font-size: 20px;
+    padding-left:15px;
+    font-weight: 600;
+    
+  }
+  :-ms-button-placeholder {
+    color:#00000089;
+    font-size: 20px;
+    padding-left:15px;
+    font-weight: 600;
+    
+  }
+  ::placeholder {
+    color:#00000089;
+    font-size: 20px;
+    font-weight: 600;
+    padding-left:15px;
+  }
+
+.login_p{
+    text-align: center;
+    padding-top:4%
+}
+
+.cbn{
+    font-size: medium;
+   color:#1e334ee0;
+
+}
+
+.cb{
+    width: 16px;
+    height: 16px;
+
+}

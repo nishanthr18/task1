@@ -1,0 +1,18 @@
+.footerend {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #060C14;
+    color: white;
+    text-align: center;
+    height: 70px;
+    padding: 10px;
+    position: relative;
+  }
+  
+  .fh3{
+      font-size: medium;
+    text-align: center;
+    padding-top: 15px;
+  }

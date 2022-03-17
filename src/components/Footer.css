@@ -1,0 +1,38 @@
+.foot{
+    gap: 1rem;
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+}
+
+.fb{
+    border-radius: 4px;
+    padding: 4px 10px;
+
+}
+.b2{
+    color: white;
+    font-size: 16px;
+    font-family: Lato;
+    font-weight: 400;
+    text-transform: none;
+    background-color: #1098F7;
+    border-style: none;
+}
+
+.b2:hover{
+  background-color: #F58120;
+}
+
+.b1{
+    border-style: solid;
+    background-color: transparent;
+    border-width: 1px;
+    border-color: #1e334e63;;
+}
+
+.b1:hover{
+    color: white;
+    background-color: #F58120;
+    border-width: 0ch;
+}

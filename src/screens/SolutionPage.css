@@ -1,0 +1,39 @@
+.sol_img{
+    text-align: center;
+    padding-top: 10rem;
+}
+
+.gm{
+    color:#fc7e17;
+    padding-top: 1rem;
+    font-size: larger;
+    font-weight: 650;
+}
+
+.lgr{
+    color: #1E334E;
+    font-weight: 600;
+}
+.pm{
+    color: #1e334ebd;
+    font-size: 16px;
+    padding-top: 18px;
+    padding-bottom: 16px;
+    line-height: 1.46429em;
+}
+
+.s_btn{
+color: white;
+background: #1098F7;
+border: none;
+font-size: 16px;
+font-family: Lato;
+font-weight: 700;
+border-radius: 4px;
+height: 40px;
+}
+
+.s_btn:hover{
+    background:#fc7e17;
+    
+}
